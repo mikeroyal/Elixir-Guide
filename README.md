@@ -6,7 +6,14 @@
 
 #### A guide covering Elixir language including the applications and tools that will make you a better and more efficient Elixir developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119560606-fb8c9c00-bd58-11eb-9f0c-3be1c18d3319.png">
+  <br />
+</p>
+
+# Elixir Learning Resources
 
 [Elixir](https://elixir-lang.org/) is a dynamic, functional language designed for building scalable and maintainable applications. Elixir leverages the [Erlang](https://www.erlang.org/) VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development, embedded software, data ingestion, and multimedia processing domains.
 
@@ -26,7 +33,7 @@
 
 [Top Elixir Courses from udemy](https://www.udemy.com/topic/Elixir/)
 
-## Tools
+# Elixir Tools, Libraries, and Frameworks
 
 [Phoenix Framework](https://www.phoenixframework.org) is web framework for building rich, interactive web applications quickly, with less code and fewer moving parts. Join our growing community of developers using Phoenix to craft APIs, HTML5 apps and more, for fun or at scale. Note: Phoenix is currently in prototype mode.
 
@@ -55,3 +62,12 @@
 [Ueberauth](https://github.com/ueberauth/ueberauth) is an Elixir Authentication System for Plug-based Web Applications.
 
 [Manifold](https://github.com/discord/manifold) is a fast batch message passing between nodes for Erlang/Elixir.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Elixir-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
